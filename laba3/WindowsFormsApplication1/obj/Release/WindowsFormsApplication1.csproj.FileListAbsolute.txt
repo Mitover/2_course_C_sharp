@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Api.resources
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\123\Desktop\хрень 4 семестр\labs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form3.resources
